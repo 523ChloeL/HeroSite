@@ -25,8 +25,9 @@ a {
   text-align: justify;
 }
 .desc {
-  color:#ddd;
-  background-color:#282E34;
+  color:white;
+  position:relative;
+  background-color:#40363B;
   text-align:center;
   padding:50px 80px;
   text-align: justify;
